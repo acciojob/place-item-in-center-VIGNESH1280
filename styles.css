@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+/* .holder{
+	display:flex;
+	align-content:center;
+    justify-content:center;
+
+} */
+.holder {
+  display: flex;                /* Enables Flexbox on the container */
+  justify-content: center;      /* Centers the item horizontally */
+  align-items: center;          /* Centers the item vertically */
+  width: 100vw;                 /* Full viewport width */
+  height: 100vh;                /* Full viewport height */
+ 
+
+
+
+
+
